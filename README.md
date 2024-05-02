@@ -12,7 +12,7 @@ You can follow or contact me via:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samy%20Khelfa-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-khelfa/)
 
-![Mail](https://img.shields.io/badge/Mail-samy.khelfa94%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
+[![Mail](https://img.shields.io/badge/Mail-samy.khelfa94%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samy.khelfa94@gmail.com)
 
 ---
 
