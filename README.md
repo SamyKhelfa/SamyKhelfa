@@ -1,7 +1,5 @@
 # About Me
 
-![Samy Khelfa](https://media.licdn.com/dms/image/C4D03AQEClN4Z9jQ-oQ/profile-displayphoto-shrink_800_800/0/1582985498756?e=1720051200&v=beta&t=xVYGdJ8TOakGXouLmD9KFWsF7vGoRQSol9c1BQ1kqLE)
-
 **Web Developer**
 
 ### Hi there 👋 I am passionate about developing modern and responsive user interfaces and constantly seek out new technologies and methodologies to enhance my skills.
