@@ -37,9 +37,12 @@ My skills include:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamyKhelfa&show_icons=true&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamyKhelfa&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyKhelfa&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=SamyKhelfa&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamyKhelfa&theme=tokyonight)
+
 
 ---
 
