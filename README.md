@@ -5,7 +5,7 @@
 ## 🚀 Featured Project
 ### [FrostApp](#) : cold exposure coaching app for a 100k+ community
 NestJS · Prisma · PostgreSQL · JWT · React (backoffice, RTK Query) · React Native (mobile)
-> Real users, real product decisions — not a tutorial clone. README inside the repo covers the architecture choices.
+> Real users, real product decisions, not a tutorial clone. README inside the repo covers the architecture choices.
 ---
 ## 🌐 Social Networks
 You can follow or contact me via:
