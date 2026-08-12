@@ -1,6 +1,6 @@
 # About Me
 **Fullstack Developer — React / TypeScript / NestJS**
-### Hi there 👋 I build fullstack products end to end — React/TypeScript on the front, NestJS/PostgreSQL on the back. Currently finishing an alternance at NORALSY (Laravel → React/TypeScript migration) and building [FrostApp](#) as my main portfolio project.
+### Hi there 👋 I build fullstack products end to end, React/TypeScript on the front, NestJS/PostgreSQL on the back. Currently finishing an alternance at NORALSY (Laravel → React/TypeScript migration) and building [FrostApp](#) as my main portfolio project.
 ---
 ## 🚀 Featured Project
 ### [FrostApp](#) — cold exposure coaching app for a 100k+ community
