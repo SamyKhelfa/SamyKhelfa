@@ -3,7 +3,7 @@
 ### Hi there 👋 I build fullstack products end to end, React/TypeScript on the front, NestJS/PostgreSQL on the back. Currently finishing an alternance at NORALSY (Laravel → React/TypeScript migration) and building [FrostApp](#) as my main portfolio project.
 ---
 ## 🚀 Featured Project
-### [FrostApp](#) — cold exposure coaching app for a 100k+ community
+### [FrostApp](#) : cold exposure coaching app for a 100k+ community
 NestJS · Prisma · PostgreSQL · JWT · React (backoffice, RTK Query) · React Native (mobile)
 > Real users, real product decisions — not a tutorial clone. README inside the repo covers the architecture choices.
 ---
